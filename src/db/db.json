@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "member@member.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571213104370,
+      "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "shanjai@gmail.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1624281117569,
+      "id": "DnqsL6Unjn9vVTcj7PGjg"
+    },
+    {
+      "email": "MEMBER@gmail.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1624281658816,
+      "id": "hdAylF991AjZkzIIwe-Du"
+    },
+    {
+      "email": "shanjai",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1624522774196,
+      "id": "kKzrBi8gt4G5p8oCWiIKr"
+    },
+    {
+      "email": "shanjai123@gmail.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1624522820199,
+      "id": "LuUiVAaQwuS0wIZtu7plj"
+    }
+  ],
+  "posts": [
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624431726137,
+      "id": "ESch1Goxp6oioAPnPHtlZ"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624431732147,
+      "id": "sN-JAdmMuuHpv9cHfQ-vk"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624431743874,
+      "id": "tdHI37d5g0fN5sphwFQ0E"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624431754398,
+      "id": "CUEQJAuFvdXwTQkOlpJgF"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624432072498,
+      "id": "R0wBLf_mfoBZ8deo1YUAV"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624432076889,
+      "id": "VvpOaRV9Pz3iwLJVw6318"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624432080203,
+      "id": "OPOxzLoDSpdHbyGInCzIO"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624432207346,
+      "id": "Wi-3Ef9j38ib0sHJSed1n"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624432211978,
+      "id": "vbEkapKz6eG0qtnw8ERti"
+    },
+    {
+      "message": "New Post",
+      "author": "DnqsL6Unjn9vVTcj7PGjg",
+      "createdAt": 1624466625524,
+      "id": "jokt1vR6cFCxVho28KNW8"
+    }
+  ],
+  "settings": []
+}
